@@ -2,10 +2,11 @@ Welcome to GIT Session !!!
 
 Hello World...
 
-
 Change : to fix bug1.
 
 Change : by teammate for WI2 on master.
 
 Change : to fix bug2.
+
+Change : by teammate for WI3 to check rebase.
 
