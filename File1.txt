@@ -2,11 +2,13 @@ Welcome to GIT Session !!!
 
 Hello World...
 
-Change : to fix bug1.
+Change 1 : to fix bug1.
 
-Change : by teammate for WI2 on master.
+Change 2 : by teammate for WI2 on master.
 
-Change : to fix bug2.
+Change 3 : to fix bug2.
 
-Change : by teammate for WI3 to check rebase.
+Change 4 : by teammate for WI3 to check rebase.
+
+Change 5 : For CR2 on remote master by teammate ,with conflict rebase.
 
